@@ -1,0 +1,55 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "Remind to cut hair",
+      "important": true,
+      "id": "OV2sW6E2coA"
+    },
+    {
+      "content": "Marcelo Bastos",
+      "important": true,
+      "id": "E9IJU5A6Zoc"
+    },
+    {
+      "content": "ばいとやめった",
+      "important": false,
+      "id": "dwYAPJlk-S8"
+    },
+    {
+      "content": "GTA VI will be released November 19th",
+      "important": false,
+      "id": "o4WJ6Q_cVsE"
+    },
+    {
+      "content": "teest",
+      "important": false,
+      "id": "SsofxLDJdEU"
+    },
+    {
+      "content": "This is a test from my phone",
+      "important": true,
+      "id": "imvnQBVUsbQ"
+    },
+    {
+      "content": "NewNoteTest",
+      "important": true,
+      "id": "i2cPBU24480"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
